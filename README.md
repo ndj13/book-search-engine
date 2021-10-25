@@ -13,10 +13,6 @@ This application is a search engine that helps users find books
 
 [Credits](#credits) 
 
-[Screen-capture](#screen-capture) 
-
-[License](#license)
-
 # Installation
 `npm init -y`
 
